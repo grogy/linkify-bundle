@@ -7,6 +7,7 @@ Changelog
 9 October 2020.
 
 * Add Symfony 4.x compatibility.
+* Changed package for Composer install.
 
 1.0.5
 -----

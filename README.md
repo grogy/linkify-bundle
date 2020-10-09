@@ -10,7 +10,7 @@ Installation
 
  1. Add the LinkifyBundle to your dependencies:
 
-        $ composer require misd/linkify-bundle
+        $ composer require grogy/linkify-bundle
 
  2. Register the bundle in your application:
 

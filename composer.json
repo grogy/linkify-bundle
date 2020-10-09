@@ -1,5 +1,5 @@
 {
-    "name": "misd/linkify-bundle",
+    "name": "grogy/linkify-bundle",
     "type": "symfony-bundle",
     "description": "Converts URLs and email addresses in text into HTML links",
     "keywords": [
