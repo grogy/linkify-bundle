@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.6
+-----
+
+9 October 2020.
+
+* Add Symfony 4.x compatibility.
+
 1.0.5
 -----
 
